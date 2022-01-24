@@ -3,7 +3,7 @@ test:
   
 spring:
     datasource:
-        url: jdbc:postgresql://localhost:5433/db_hr_user
+        url: jdbc:postgresql://localhost:5434/db_hr_user
         username: postgres
         password: 1234567
     jpa:
