@@ -1,3 +1,6 @@
+test:
+  config: My config value dev profile
+  
 spring:
   datasource:
     url: jdbc:postgresql://localhost:5433/db_hr_worker
